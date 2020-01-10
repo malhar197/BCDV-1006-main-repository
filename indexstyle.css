@@ -1,0 +1,15 @@
+h1 {
+	color : navy;
+	font-size: 120%;
+}
+
+h2 {
+	font-size: 80%;
+	font-style: italic;
+}
+
+body {
+	background-image: url("cat.jpg"); 
+	background-repeat: no-repeat;
+	font: serif;
+}
