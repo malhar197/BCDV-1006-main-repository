@@ -1,0 +1,11 @@
+body{
+    width: 60%;
+    margin-left: 20%;
+}
+
+main {
+	column-count: 2;
+	column-gap: 2.5em;
+	column-rule: 1px dotted;
+}
+
